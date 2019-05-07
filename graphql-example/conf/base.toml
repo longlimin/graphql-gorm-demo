@@ -1,0 +1,18 @@
+# environment
+env = "dev"
+
+# default DEBUG, DEBUG INFO WARN ERROR OFF
+log_level = "DEBUG"
+
+[app]
+name = "blog-test"
+address = "127.0.0.1:1323"
+
+
+[db]
+db_name = "blog"
+user_name = "tofar"
+pwd  = "mysql"
+host = "mysql"
+port = "3306"
+
